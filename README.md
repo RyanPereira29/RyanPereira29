@@ -33,3 +33,13 @@
 <img src="https://skillicons.dev/icons?i=windows" />
 
 </div>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanPereira29&show_icons=true&theme=dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPereira29&layout=compact&theme=dark"/>
+
+</div>

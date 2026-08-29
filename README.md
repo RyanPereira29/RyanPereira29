@@ -1,4 +1,19 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Olá, eu sou Ryan Pereira
+
+### 💻 Desenvolvedor | 🎨 Design | 🚀 Tecnologia
+
+</div>
+<div align="center">
+
+## 🌐 Redes sociais — Links — Contato
+
+<a href="https://instagram.com/Ryan_pereira29">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
 
 <!--
 **RyanPereira29/RyanPereira29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
